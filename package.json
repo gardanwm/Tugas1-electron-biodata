@@ -1,0 +1,14 @@
+{
+  "name": "profil",
+  "version": "1.0.0",
+  "description": "tes electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Garda",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.0.0"
+  }
+}
